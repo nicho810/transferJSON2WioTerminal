@@ -17,6 +17,7 @@ Video Demo : https://twitter.com/Nicho810/status/1270609454984163328
 
 7. The serial monitor of Arduino should output message like below:
 
+   ```
    14:58:48.331 -> HTTP/1.0 200 OK
    14:58:48.331 -> Content-Type: text/html; charset=utf-8
    14:58:48.331 -> Content-Length: 20
@@ -29,4 +30,7 @@ Video Demo : https://twitter.com/Nicho810/status/1270609454984163328
    14:58:48.500 -> change color to blue...
    14:58:48.500 -> Closing connection.
    14:58:48.500 -> Waiting 2 seconds before restarting...
+   ```
+   
+   
 
